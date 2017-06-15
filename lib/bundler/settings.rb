@@ -29,6 +29,7 @@ module Bundler
       only_update_to_newer_versions
       plugins
       silence_root_warning
+      unlock_source_unlocks_spec
       update_requires_all_flag
     ].freeze
 
